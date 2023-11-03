@@ -17,6 +17,9 @@ export default {
         "gray-900": "#0f172a",
       },
     },
+    backgroundImage: {
+      "img-purple": "url('/src/assets/rightImg.jpg')",
+    },
   },
   plugins: [],
 };
