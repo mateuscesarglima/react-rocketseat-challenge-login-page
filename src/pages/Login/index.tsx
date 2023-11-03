@@ -16,7 +16,7 @@ export const Login = () => {
   })
 
   return (
-    <section className="grid bg-gray-50 h-screen md:grid-cols-2">
+    <section className="grid bg-gray-50 h-screen md:grid-cols-2 md:h-full">
       <div className="max-w-2xl  px-[3rem] py-[1.5rem] lg:px-[7rem] lg:py-[2.5rem]">
         <img src={logo} alt="Project logo image" />
         <div id="form-container" className="flex flex-col gap-10 mt-[4rem] md:mt-[7.125rem]">
